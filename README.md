@@ -1,2 +1,4 @@
 # Basic-Html-CSs
-# all HTml and css
+# Basic html code
+# Css basic
+# All code logic implemented
